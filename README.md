@@ -1,2 +1,2 @@
 # bash-logger
-Simple bash modle that adds logger functionality
+Simple bash module that adds logger functionality
